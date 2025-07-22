@@ -1,4 +1,5 @@
 💫 Su di me:
+<br><br>
 👋 Ciao! Sono Ale<br><br>Sono uno sviluppatore full stack colombiano con una passione per l’apprendimento continuo, il codice pulito e le soluzioni creative. Mi piace risolvere problemi reali con tecnologie utili e condividere ciò che imparo.<br><br>🔧 Lavoro con tecnologie come:<br><br> 🔹Frontend: React.js, TypeScript, Tailwind CSS, Material UI, GSAP<br><br> 🔹Backend: Node.js, Express, Sequelize, PostgreSQL<br><br> 🔹Autenticazione & API: Auth.js, JWT, Axios<br><br> 🔹Validazioni: React Hook Form, Zod<br><br> 🔹Test: Jest e SuperTest<br><br><br>🌍 Parlo 3 lingue:<br><br> 🔹Spagnolo C2 (madrelingua)<br><br> 🔹Inglese C1 (avanzato)<br><br> 🔹Italiano B2 (intermedio)<br><br>🛠 Attualmente sto sviluppando un’app per ridurre lo spreco alimentare, collegando attività commerciali con clienti alla ricerca di prodotti in buone condizioni a prezzi ridotti.
 
 

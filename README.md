@@ -1,6 +1,33 @@
-💫 Su di me:
+💫 About Me:
 <br><br>
-👋 Ciao! Sono Ale<br><br>Sono uno sviluppatore full stack colombiano con una passione per l’apprendimento continuo, il codice pulito e le soluzioni creative. Mi piace risolvere problemi reali con tecnologie utili e condividere ciò che imparo.<br><br>🔧 Lavoro con tecnologie come:<br><br> 🔹Frontend: React.js, TypeScript, Tailwind CSS, Material UI, GSAP<br><br> 🔹Backend: Node.js, Express, Sequelize, PostgreSQL<br><br> 🔹Autenticazione & API: Auth.js, JWT, Axios<br><br> 🔹Validazioni: React Hook Form, Zod<br><br> 🔹Test: Jest e SuperTest<br><br><br>🌍 Parlo 3 lingue:<br><br> 🔹Spagnolo C2 (madrelingua)<br><br> 🔹Inglese C1 (avanzato)<br><br> 🔹Italiano B2 (intermedio)<br><br>🛠 Attualmente sto sviluppando un’app per ridurre lo spreco alimentare, collegando attività commerciali con clienti alla ricerca di prodotti in buone condizioni a prezzi ridotti.
+👋 Hi! I'm Ale
+<br><br>
+I'm a full-stack developer from Colombia with a passion for continuous learning, clean code, and creative solutions. I enjoy solving real-world problems using useful technologies and sharing what I learn.
+<br><br>
+
+🔧 I work with technologies like:
+<br><br>
+🔹 Frontend: React.js, TypeScript, Tailwind CSS, Material UI, GSAP
+<br>
+🔹 Backend: Node.js, Express, Sequelize, PostgreSQL
+<br>
+🔹 Auth & API: Auth.js, JWT, Axios
+<br>
+🔹 Validation: React Hook Form, Zod
+<br>
+🔹 Testing: Jest & SuperTest
+<br><br>
+
+🌍 I speak 3 languages:
+<br><br>
+🔹 Spanish C2 (native)
+<br>
+🔹 English C1 (advanced)
+<br>
+🔹 Italian B2 (intermediate)
+<br><br>
+
+🛠 I'm currently developing an app to reduce food waste by connecting local businesses with customers looking for quality products at discounted prices.
 
 
 ## 🌐 Socials:

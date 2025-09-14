@@ -7,7 +7,7 @@ I'm a full-stack developer from Colombia with a passion for continuous learning,
 
 🔧 I work with technologies like:
 <br><br>
-🔹 Frontend: React.js, TypeScript, Tailwind CSS, Shadcn, GSAP
+🔹 Frontend: React.js, Next.js, TypeScript, Tailwind CSS, Shadcn, GSAP
 <br>
 🔹 Backend: Node.js, Express, Sequelize, PostgreSQL
 <br>
